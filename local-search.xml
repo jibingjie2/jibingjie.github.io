@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>sonarqube最佳实践</title>
+    <link href="/2024/12/25/sonarqube%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/"/>
+    <url>/2024/12/25/sonarqube%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</url>
+    
+    <content type="html"><![CDATA[<h1 id="sonarqube最佳实践"><a href="#sonarqube最佳实践" class="headerlink" title="sonarqube最佳实践"></a>sonarqube最佳实践</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>SonarQube 是一个流行的开源平台，主要用于持续检查代码质量，检测 bug、漏洞和代码异味（code smells）。它支持多种编程语言，能够对代码进行静态分析，帮助开发团队维护高质量的代码。SonarQube 可以与 Jenkins 集成，以便在构建过程中自动分析代码质量。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>运维</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>SonarQube</tag>
+      
+      <tag>Jenkins</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>first</title>
     <link href="/2024/12/25/first/"/>
     <url>/2024/12/25/first/</url>
